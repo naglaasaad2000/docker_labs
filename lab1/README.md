@@ -86,6 +86,6 @@ docker run -d -p 8080:80 nginx-naglaa_saad
 
 #### 4. Test the Container, open your browser and navigate to http://localhost:8088 to check if everything is okay
 ```
-it display my index.html
+it displays my index.html
 ```
 
